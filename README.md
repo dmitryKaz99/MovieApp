@@ -10,4 +10,5 @@
 3. Пагинация для удобного перелистывания.
 
 *Preview video:* https://disk.yandex.ru/i/3QbXxFHwLNMsyA <br>
-*Preview photo:* <br> ![preview-photo](https://user-images.githubusercontent.com/90089376/152169553-8259e9b9-4972-4133-a3cb-d9aaedb84081.png)
+*Preview photo:* <br> ![preview-photo](https://user-images.githubusercontent.com/90089376/152644285-a20106ee-85fc-490c-95d9-238d77db1f3e.png)
+
