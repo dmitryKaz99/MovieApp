@@ -1,4 +1,4 @@
-# Movie super
+# Movie Super
 
 В проекте реализовано: <br>
 1. Kinopoisk Api, с 3 подборками:
